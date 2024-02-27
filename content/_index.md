@@ -1,7 +1,6 @@
 +++
 title = 'partkyle.dev'
 date = 2024-02-01T23:20:06-08:00
-draft = true
 +++
 
 This is my home page to my website.
