@@ -14,23 +14,29 @@ minify:
 
 params:
   author: 'partkyle'
-  DateFormat: '2006-01-02'
   defaultTheme: 'auto'
 
-  comments: false
+  showtoc: true
 
-  socialIcons:
+  Social:
     - name: github
       url: https://github.com/partkyle
-
+  
 menu:
   main:
     - identifier: about
       name: about
       url: /about/
+      weight: 10
+    - identifier: portfolio
+      name: portfolio
+      url: /portfolio/
+      weight: 20
     - identifier: blahg
       name: blahg
       url: /blahg/
+      weight: 30
     - identifier: tags
       name: tags
       url: /tags/
+      weight: 40

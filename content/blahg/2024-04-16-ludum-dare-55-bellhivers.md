@@ -17,7 +17,7 @@ This was also my first attempt at creating a first person camera and a shooter. 
 
 I’m glad I persevered and actually finished it. I learned a lot about the Godot engine and had a great time. The first time I had the enemy meshes explode I was ecstatic. I was shocked that something so simple looked good enough for me to keep it in the final version.
 
-The code is up on [github](https://github.com/partkyle/bellhivers). It's not the best code I've written. There are few classes that are too large and should be broken out (i.e. Player). The UI code and structure leaves a lot to be desired. And I really wish I had put in a volume slider.
+The code is up on [github](https://github.com/partkyle/bellhivers). It's not the best code I've written. There are few classes that are too large and should be broken out (i.e. Player). The UI code and structure leaves a lot to be desired. And I really wish I had put in a volume slider and some other basic settings.
 
 I also wish I would have tested it more with the HTML player version since that's the most likely way to get people to try the game out for the challenge itself. I have some lagging issues due to poor scene loading strategies. I was taking advantage of my PCs hardware, and that proved to be a mistake.
 

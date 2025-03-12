@@ -26,7 +26,7 @@ This fixes both the shadows and the face rendering issues for meshes with occlud
 
 I noticed another issue with shapes that weren't capsules. Since the height was based on the UV values, depending on the mesh and how the UV was mapped, models would dissolve unexpectedly.
 
-![rendering using uv](/png/2024-03-02-uv.png).
+![rendering using uv](/png/2024-03-02-uv.png)
 
 I resolved this using a vertex shader to use the Y value of the vertex and passed that to the fragment shader.
 

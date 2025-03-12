@@ -9,11 +9,11 @@ date = 2024-02-01T23:19:53-08:00
 - software engineer
 - game developer
 - backend engineer
-- web developer
-- devops engineer
 - full stack developer
-- SRE
-- guitarist
+- infrastructure engineer
+- devops engineer
+- site reliability engineer (SRE)
+- web developer
 - musician
 - gamer
 - kyle
