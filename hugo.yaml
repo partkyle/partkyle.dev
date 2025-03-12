@@ -31,3 +31,6 @@ menu:
     - identifier: blahg
       name: blahg
       url: /blahg/
+    - identifier: tags
+      name: tags
+      url: /tags/
