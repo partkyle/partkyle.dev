@@ -1,0 +1,33 @@
+baseURL: 'https://partkyle.dev/'
+languageCode: 'en-us'
+title: 'partkyle.dev'
+theme: 'PaperMod'
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  author: 'partkyle'
+  DateFormat: '2006-01-02'
+  defaultTheme: 'auto'
+
+  comments: false
+
+  socialIcons:
+    - name: github
+      url: https://github.com/partkyle
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+    - identifier: blahg
+      name: blahg
+      url: /blahg/
