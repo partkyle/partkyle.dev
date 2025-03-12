@@ -2,7 +2,7 @@
 title = 'Turn Based Combat Technical Demo'
 date = 2024-02-01T23:23:29-08:00
 categories = ['dev']
-tags = ['dev', 'gamedev', 'godot', 'demo']
+tags = ['gamedev', 'godot', 'demo']
 +++
 
 This is simple turn based combat techincal example in teh godot engine.
