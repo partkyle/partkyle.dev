@@ -9,10 +9,10 @@ This is simple turn based combat techincal example in teh godot engine.
 
 ![Image Demo of the Turn Controller](/gif/2024-02-01-turn-queue.gif)
 
+## Playable Demo
+
+It's playable in the browser on [itch.io](https://partkyle.itch.io/turn-based-controller-tech-demo)
+
 After playing Bauldur's Gate 3, I became interested in turn based combat and wanted to take a crack at implementing it.
 
-Assets are all free assets.
-
-TODO include link to assets
-TODO upload playable demo to itch and include here
-TODO upload youtube video demo
+Assets are all free assets from [Pixel Frog's Tiny Swords](https://pixelfrog-assets.itch.io/tiny-swords) package
