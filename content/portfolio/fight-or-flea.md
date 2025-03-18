@@ -10,8 +10,7 @@ Fight or Flea is a simple game gameplay is based off of the Monster Hunter mount
 
 This is very much a programmer art project. My focus was on input management and feedback as well as game lifecycle.
 
-![cover](/png/2024-10-06-fight-or-flea-cover.png)
-
+{{< youtube fQNMSFu2ep0 >}}
 
 ## Links
 

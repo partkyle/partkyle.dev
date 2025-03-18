@@ -8,8 +8,6 @@ This was a 48 hour gamejam, so it was limited in scope intentionally. It has not
 
 Ludum Dare was a great experience and it left me with a bunch of feedback from users that played my game. I think it improved my skills considerably, as this was my first real attempt doing my own 3D modeling.
 
-## Demo
-
 {{< youtube yhj2D5uuFYE >}}
 
 ## Links
